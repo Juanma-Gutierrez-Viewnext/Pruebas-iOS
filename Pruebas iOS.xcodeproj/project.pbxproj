@@ -13,6 +13,7 @@
 		39A14BA02BBBF4F0000F1958 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39A14B9E2BBBF4F0000F1958 /* Main.storyboard */; };
 		39A14BA22BBBF4F2000F1958 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39A14BA12BBBF4F2000F1958 /* Assets.xcassets */; };
 		39A14BA52BBBF4F2000F1958 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39A14BA32BBBF4F2000F1958 /* LaunchScreen.storyboard */; };
+		EA0400D82BBC0001000691A6 /* CarmenStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0400D72BBC0001000691A6 /* CarmenStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		39A14BA12BBBF4F2000F1958 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39A14BA42BBBF4F2000F1958 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39A14BA62BBBF4F2000F1958 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA0400D72BBC0001000691A6 /* CarmenStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CarmenStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				39A14BA12BBBF4F2000F1958 /* Assets.xcassets */,
 				39A14BA32BBBF4F2000F1958 /* LaunchScreen.storyboard */,
 				39A14BA62BBBF4F2000F1958 /* Info.plist */,
+				EA0400D72BBC0001000691A6 /* CarmenStoryboard.storyboard */,
 			);
 			path = "Pruebas iOS";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39A14BA52BBBF4F2000F1958 /* LaunchScreen.storyboard in Resources */,
+				EA0400D82BBC0001000691A6 /* CarmenStoryboard.storyboard in Resources */,
 				39A14BA22BBBF4F2000F1958 /* Assets.xcassets in Resources */,
 				39A14BA02BBBF4F0000F1958 /* Main.storyboard in Resources */,
 			);
